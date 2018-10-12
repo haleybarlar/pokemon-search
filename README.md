@@ -46,6 +46,9 @@ components.
 the string I put into my search box. i.e. If I put in `b` or `B`, I want it to bring
 up all Pokemon's names that **include** the character whether or not it is capital.
 
+- As a user, if I type a string that matches to no Pokemon name, I want the app to
+tell me, "There are no Pokemon here".
+
 - When I click on a Pokemon's image, I want it to turn the Pokemon around and show
 the opposite. If it is showing the front sprite and I click, I want it to show
 the back sprite. If it is the back sprite, I want it to show the front sprite.
