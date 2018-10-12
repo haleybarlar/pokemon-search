@@ -1,7 +1,7 @@
 # React Pokemon Search
 
 Howdy! Your assignment today is to recreate the functionality
-of our [Pokemon Search Engine](pokemon-app). Feel free to play
+of our [Pokemon Search Engine][pokemon-app]. Feel free to play
 around with the app and see how it works. Here are some
 thinking points you want to do when trying to recreate an app:
 
